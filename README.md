@@ -1,72 +1,39 @@
-🎄 Amigo Secreto - Sorteo Aleatorio
+Amigo Secreto - Sorteo Aleatorio
 
-https://img.shields.io/badge/status-activo-brightgreen https://img.shields.io/badge/licencia-MIT-blue
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg)
 
-Una aplicación web sencilla para organizar sorteos de "Amigo Secreto" de manera fácil y divertida.
-✨ Funcionalidades principales
+Aplicación web para realizar sorteos de "Amigo Secreto" de manera justa y transparente.
 
-    Agregar participantes: Ingresa los nombres de tus amigos mediante un formulario intuitivo
+## 🎁 Funcionalidades
 
-    Lista visual: Todos los participantes aparecen en una lista ordenada
+### ✨ Interfaz de Usuario
+- Campo de texto para ingresar nombres
+- Botón "Adicionar" para agregar participantes
+- Lista visual de todos los participantes
+- Botón "Sortear Amigo" para realizar el sorteo
+- Área para mostrar el resultado del sorteo
 
-    Validación inteligente: El sistema previene entradas vacías
+### ⚙️ Lógica del Programa
+- Validación de entrada vacía
+- Almacenamiento de nombres en array
+- Algoritmo aleatorio para selección
+- Visualización clara del resultado
 
-    Sorteo justo: Algoritmo aleatorio para asignar los pares secretos
+## 🖥️ Capturas de Pantalla
 
-    Interfaz limpia: Diseño minimalista y fácil de usar
+![Interfaz Principal](/screenshots/interface.png)
+*Captura: Interfaz principal de la aplicación*
 
-🛠 Cómo usar
+## 🛠️ Tecnologías Utilizadas
 
-    Agrega participantes:
+| Tecnología | Función |
+|------------|---------|
+| HTML5 | Estructura de la página |
+| CSS3 | Estilos y diseño responsive |
+| JavaScript | Lógica de la aplicación |
+| Git | Control de versiones |
 
-        Escribe el nombre en el campo de texto
-
-        Haz clic en "Adicionar" o presiona Enter
-
-    Realiza el sorteo:
-
-        Cuando todos los nombres estén en la lista
-
-        Haz clic en "Sortear Amigo"
-
-        ¡Descubre quién es tu amigo secreto!
-
-    Reinicia cuando quieras:
-
-        Limpia la lista para un nuevo sorteo
-
-🚀 Tecnologías utilizadas
-
-    Frontend:
-    https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white
-    https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white
-    https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black
-
-📦 Instalación
-
-No se requiere instalación. ¡Simplemente abre el archivo index.html en tu navegador!
-bash
-
-# Opcional: Si quieres ejecutarlo localmente con live server
-npm install -g live-server
-live-server
-
-🌟 Contribuciones
-
-¿Quieres mejorar este proyecto? ¡Tus contribuciones son bienvenidas!
-
-    Haz fork del proyecto
-
-    Crea una rama con tu feature (git checkout -b feature/nueva-funcionalidad)
-
-    Haz commit de tus cambios (git commit -m 'Agrego nueva funcionalidad')
-
-    Haz push a la rama (git push origin feature/nueva-funcionalidad)
-
-    Abre un Pull Request
-
-📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
 
 Hecho con ❤️ por Manuel Mendivil
