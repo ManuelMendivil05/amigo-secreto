@@ -31,7 +31,7 @@ Aplicación web para realizar sorteos de "Amigo Secreto" de manera justa y trans
 | Tecnología | Función |
 |------------|---------|
 | HTML5 | Estructura de la página |
-| CSS | Estilos y diseño responsive |
+| CSS3 | Estilos y diseño responsive |
 | JavaScript | Lógica de la aplicación |
 | Git | Control de versiones |
 
