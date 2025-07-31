@@ -11,7 +11,7 @@ function agregarAmigo(nombre) {
         amigos.push(nombreIngresado);
         mostrarAmigos();
         document.getElementById('amigo').value = ''; //limpia caja
-        console.log(`Amigo añadido: ${nombreIngresado}`);
+        console.log(`Amigo añadido: ${nombreIngresado}`); //para verificar en la consola
     }
 }
 
